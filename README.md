@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RuiStarlit
-- 👀 I’m interested in CS
+- 👀 I’m interested in statistical machine learning
 - 🌱 I’m currently learning watermelon
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me CinderHeart@hust.edu.cn
