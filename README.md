@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RuiStarlit
-- 👀 I’m interested in statistical machine learning
+- 👀 I’m interested in statistical, machine learning, sociology and psychology.
 - 🌱 I’m currently learning Statistics and Machine Learning
 - 📫 How to reach me RuifanHuang@hust.edu.cn
 
