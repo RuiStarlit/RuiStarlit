@@ -19,11 +19,11 @@ ruifanhuang@hust.edu.cn or ruistarlit@foxmail.com
 Information and Computing Science @ HUST  
 
 ### M.S student in China, now
-Statistic @ HUST  
+Statistics @ HUST  
 
 ---
 # Research interests
-- Statistic Machine Learning
+- Statistics Machine Learning
 - Fairness in Machine Learning and Deep Learning
 - Learning with Noisy Label in Deep Learning
 - Psychology
