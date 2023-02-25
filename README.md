@@ -16,7 +16,7 @@ ruifanhuang@hust.edu.cn or ruistarlit@foxmail.com
 # Education  
 
 ### B.S. in China, 2022
-Information and Computating Science @ HUST  
+Information and Computing Science @ HUST  
 
 ### M.S student in China, now
 Statistic @ HUST  
