@@ -26,7 +26,7 @@ Statistics @ HUST
 # Research interests
 - Statistics Machine Learning
 - Convex optimization
-- Sci ML
+- AI4Science
 - Fairness in Machine Learning and Deep Learning
 - Learning with Noisy Label in Deep Learning
 - Psychology
