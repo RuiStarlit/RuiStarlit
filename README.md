@@ -26,8 +26,8 @@ Statistics @ HUST
 # Research interests
 - Statistics Machine Learning
 - Convex optimization
+- Societal considerations including fairness, safety, privacy
 - AI4Science
-- Fairness in Machine Learning and Deep Learning
 - Learning with Noisy Label in Deep Learning
 - Psychology
 <!---
